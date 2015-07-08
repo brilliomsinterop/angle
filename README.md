@@ -17,6 +17,44 @@ Getting Started
 =====
 The /templates/ directory contains easy-to-use Visual Studio templates for
 OpenGL ES/ANGLE. View the README in that directory for installation 
+ANGLE -- future-dev branch
+=====
+
+This is a development branch for Windows Store versions of ANGLE. It contains
+full support for Windows 8.1 and Windows Phone 8.1, and other features such as
+performance improvements and memory savings.
+
+If you are developing for Windows 8.0 or Windows Phone 8.0 then please see the
+version of ANGLE in the 'winrt' branch.
+
+Requirements
+=====
+* Visual Studio 2013 Update 2 Express for Windows, or later.
+* Windows 8.1 for local Windows development.
+
+Getting Started
+=====
+The /templates/ directory contains easy-to-use Visual Studio templates for
+OpenGL ES/ANGLE. View the README in that directory for installation 
+ANGLE -- future-dev branch
+=====
+
+This is a development branch for Windows Store versions of ANGLE. It contains
+full support for Windows 8.1 and Windows Phone 8.1, and other features such as
+performance improvements and memory savings.
+
+If you are developing for Windows 8.0 or Windows Phone 8.0 then please see the
+version of ANGLE in the 'winrt' branch.
+
+Requirements
+=====
+* Visual Studio 2013 Update 2 Express for Windows, or later.
+* Windows 8.1 for local Windows development.
+
+Getting Started
+=====
+The /templates/ directory contains easy-to-use Visual Studio templates for
+OpenGL ES/ANGLE. View the README in that directory for installation 
 instructions.
 
 The Windows Store projects for ANGLE are located here:
